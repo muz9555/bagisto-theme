@@ -1,0 +1,8 @@
+/.github export-ignore
+/tests export-ignore
+/phpunit.xml.dist export-ignore
+/phpunit.bagisto.xml export-ignore
+/pint.json export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+/docs export-ignore

@@ -1,0 +1,294 @@
+{
+  "version": "1.1.0",
+  "verified_at": "2026-11-16",
+  "price_basis": "Official US regular / compare-at prices; temporary promotions excluded. Prices imported only into a USD base-currency channel.",
+  "products": [
+    {
+      "sku": "MX-DJI-MINI-4-PRO",
+      "slug": "dji-mini-4-pro",
+      "name": "DJI Mini 4 Pro (DJI RC-N2)",
+      "brand": "DJI",
+      "category": "camera-drones",
+      "price": 759,
+      "currency": "USD",
+      "image": "dji-mini-4-pro.webp",
+      "summary": "Compact aerial imaging with a 1/1.3-inch camera and true vertical shooting.",
+      "specs": {
+        "best_use": "Travel and vertical aerial video",
+        "camera_capabilities": "1/1.3-inch CMOS; 4K/60fps HDR",
+        "flight_time": "Up to 34 min with standard battery",
+        "aircraft_weight": "Under 249 g with standard battery",
+        "obstacle_sensing": "Omnidirectional vision sensing"
+      },
+      "sources": [
+        "https://www.dji.com/mini-4-pro/specs",
+        "https://www.dji.com/media-center/announcements/unlock-creativity-with-dji-mini-4-pro-all-in-one-aerial-solution"
+      ],
+      "note": "DJI RC-N2 controller configuration. Manufacturer flight time is measured in controlled conditions; actual results vary. A compatible phone is required for the RC-N2 controller.",
+      "image_source": "https://se-cdn.djiits.com/tpc/uploads/carousel/image/56164c524942bae3dbead828f388a8bf@ultra.jpg?format=webp"
+    },
+    {
+      "sku": "MX-DJI-AIR-3S",
+      "slug": "dji-air-3s",
+      "name": "DJI Air 3S (DJI RC-N3)",
+      "brand": "DJI",
+      "category": "camera-drones",
+      "price": 1099,
+      "currency": "USD",
+      "image": "dji-air-3s.webp",
+      "summary": "A 1-inch wide-angle camera and 70 mm medium telephoto camera for versatile aerial storytelling.",
+      "specs": {
+        "best_use": "Dual-camera travel photography",
+        "camera_capabilities": "50 MP 1-inch wide + 48 MP 70 mm tele; 4K/60fps HDR",
+        "flight_time": "Up to 45 min in manufacturer tests",
+        "aircraft_weight": "724 g",
+        "obstacle_sensing": "Omnidirectional sensing including forward LiDAR"
+      },
+      "sources": [
+        "https://store.dji.com/product/dji-air-3s",
+        "https://www.dji.com/air-3s/specs"
+      ],
+      "note": "DJI RC-N3 controller configuration. Maximum flight time is a laboratory result and varies with conditions and use. A compatible phone is required for the RC-N3 controller.",
+      "image_source": "https://se-cdn.djiits.com/tpc/uploads/carousel/image/d4a1adddd5c1ebe61cbd4b5b54107345@ultra.jpg?format=webp"
+    },
+    {
+      "sku": "MX-DJI-AVATA-2",
+      "slug": "dji-avata-2",
+      "name": "DJI Avata 2 Fly More Combo (Single Battery)",
+      "brand": "DJI",
+      "category": "fpv-drones",
+      "price": 999,
+      "currency": "USD",
+      "image": "dji-avata-2.webp",
+      "summary": "Immersive FPV flying with built-in propeller guards and a 155° field of view.",
+      "specs": {
+        "best_use": "Immersive FPV video",
+        "camera_capabilities": "1/1.3-inch CMOS; 155° FOV; 4K/60fps HDR",
+        "flight_time": "Up to 23 min in manufacturer tests",
+        "aircraft_weight": "Approx. 377 g",
+        "obstacle_sensing": "Downward and backward visual positioning; not omnidirectional avoidance"
+      },
+      "sources": [
+        "https://www.dji.com/newsroom/news/dji-launch-avata-2-en",
+        "https://www.dji.com/avata-2/specs"
+      ],
+      "note": "Single-battery Fly More Combo includes DJI Goggles 3 and DJI RC Motion 3. Maximum flight time is measured in controlled conditions; actual results vary.",
+      "image_source": "https://se-cdn.djiits.com/tpc/uploads/carousel/image/d9f7b4c1ea96f853946a6366505c1f0b@ultra.jpg?format=webp"
+    },
+    {
+      "sku": "MX-BEATBOT-AQUASENSE-2-PRO",
+      "slug": "beatbot-aquasense-2-pro",
+      "name": "Beatbot AquaSense 2 Pro",
+      "brand": "Beatbot",
+      "category": "robotic-pool-cleaners",
+      "price": 2299,
+      "currency": "USD",
+      "image": "beatbot-aquasense-2-pro.webp",
+      "summary": "Clean the floor, walls, waterline and water surface, with automatic water clarification.",
+      "specs": {
+        "pool_type": "Above-ground and in-ground pools",
+        "cleaning_coverage": "Floor, walls, waterline, surface and water clarification",
+        "runtime": "Up to 11 h in surface-cleaning mode only",
+        "navigation": "CleverNav with 22 sensors",
+        "filter_type": "Dual-layer 150/250 μm filtration"
+      },
+      "sources": [
+        "https://beatbot.com/products/aquasense-2-pro"
+      ],
+      "note": "The maximum surface-cleaning runtime does not describe floor-cleaning runtime. Clarification uses compatible consumables; check the manufacturer instructions for pool suitability and maintenance.",
+      "image_source": "https://beatbot.com/cdn/shop/files/S1ECN.webp?v=1764152352"
+    },
+    {
+      "sku": "MX-BEATBOT-AQUASENSE-2-ULTRA",
+      "slug": "beatbot-aquasense-2-ultra",
+      "name": "Beatbot AquaSense 2 Ultra",
+      "brand": "Beatbot",
+      "category": "robotic-pool-cleaners",
+      "price": 3150,
+      "currency": "USD",
+      "image": "beatbot-aquasense-2-ultra.webp",
+      "summary": "Camera-assisted pool mapping and five cleaning functions for comprehensive pool care.",
+      "specs": {
+        "pool_type": "Above-ground and in-ground pools",
+        "cleaning_coverage": "Floor, walls, waterline, surface and water clarification",
+        "navigation": "HybridSense AI camera mapping with 27 sensors",
+        "filter_type": "Dual-layer 150/250 μm filtration"
+      },
+      "sources": [
+        "https://beatbot.com/products/aquasense-2-ultra"
+      ],
+      "note": "Multi-level platform cleaning requires a minimum water depth of 35 cm over the platform. Clarification uses compatible consumables. Confirm the pool shape, depth and surface against manufacturer requirements.",
+      "image_source": "https://beatbot.com/cdn/shop/files/2_Ultra_New_600x600.png?v=1781504434"
+    },
+    {
+      "sku": "MX-ROBOROCK-SAROS-10R",
+      "slug": "roborock-saros-10r",
+      "name": "Roborock Saros 10R with Multifunctional Dock 4.0",
+      "brand": "Roborock",
+      "category": "robot-vacuums-and-mops",
+      "price": 1599.99,
+      "currency": "USD",
+      "image": "roborock-saros-10r.webp",
+      "summary": "A 7.98 cm body, StarSight navigation and a dock that washes, dries and removes the mops.",
+      "specs": {
+        "vacuum_type": "Robot vacuum and mop",
+        "floor_types": "Hard floors and carpets; settings depend on surface",
+        "mopping": "Dual spinning mops with automatic mop removal",
+        "dock_features": "Multifunctional Dock 4.0: auto-empty, mop washing and drying",
+        "navigation": "StarSight Autonomous System 2.0"
+      },
+      "sources": [
+        "https://us.roborock.com/products/roborock-saros-10r",
+        "https://us.roborock.com/pages/roborock-saros-10r"
+      ],
+      "note": "Standard Multifunctional Dock 4.0 configuration. This listing is not the separately offered refill-and-drainage version. Leave adequate clearance and use a level, dry dock location.",
+      "image_source": "https://us.roborock.com/cdn/shop/files/Saros_10R_ID.png?v=1758785570&width=1000"
+    },
+    {
+      "sku": "MX-ROBOROCK-QREVO-CURV",
+      "slug": "roborock-qrevo-curv",
+      "name": "Roborock Qrevo Curv Robot Vacuum",
+      "brand": "Roborock",
+      "category": "robot-vacuums-and-mops",
+      "price": 1599.99,
+      "currency": "USD",
+      "image": "roborock-qrevo-curv.webp",
+      "summary": "DuoDivide brush design, an adapting chassis and extending edge mopping for everyday floor care.",
+      "specs": {
+        "vacuum_type": "Robot vacuum and mop",
+        "floor_types": "Hard floors and carpets; settings depend on surface",
+        "mopping": "Dual spinning mops with FlexiArm edge mopping",
+        "dock_features": "Multifunctional Dock 3.0: auto-empty, refill, mop washing and drying",
+        "navigation": "PreciSense LiDAR and Reactive AI obstacle recognition"
+      },
+      "sources": [
+        "https://us.roborock.com/products/roborock-qrevo-curv-robot-vacuum",
+        "https://us.roborock.com/pages/roborock-qrevo-curv"
+      ],
+      "note": "Manufacturer-rated suction is up to 18,500 Pa; suction ratings do not directly predict cleaning results. The dock supports hot-water mop washing up to 75°C under manufacturer test conditions.",
+      "image_source": "https://us.roborock.com/cdn/shop/files/Roborock_Qrevo_Curv_360_360.png?v=1725247715"
+    },
+    {
+      "sku": "MX-DJI-MINI-4-PRO-BATTERY",
+      "slug": "dji-mini-4-pro-battery",
+      "name": "DJI Mini 4 Pro Intelligent Flight Battery",
+      "brand": "DJI",
+      "category": "drone-accessories",
+      "price": 99,
+      "currency": "USD",
+      "image": "dji-mini-4-pro-battery.webp",
+      "summary": "One replacement Intelligent Flight Battery for the DJI Mini 4 Pro or Mini 3 Pro.",
+      "specs": {
+        "compatibility": "DJI Mini 4 Pro and DJI Mini 3 Pro",
+        "battery_details": "2590 mAh; 7.32 V; 18.96 Wh; approx. 77.9 g"
+      },
+      "sources": [
+        "https://store.dji.com/product/dji-mini-4-pro-intelligent-flight-battery"
+      ],
+      "note": "Includes one standard battery. Aircraft and charger are not included. Up to 34 minutes on Mini 4 Pro in controlled manufacturer tests; actual flight time varies.",
+      "image_source": "https://se-cdn.djiits.com/tpc/uploads/photo/image/dda266229df13aa7d36f00a698b5b62e@large.jpg"
+    },
+    {
+      "sku": "MX-BEATBOT-POOL-CLEANER-CADDY",
+      "slug": "beatbot-pool-cleaner-caddy",
+      "name": "Beatbot Pool Cleaner Caddy",
+      "brand": "Beatbot",
+      "category": "pool-robot-accessories",
+      "price": 159,
+      "currency": "USD",
+      "image": "beatbot-pool-cleaner-caddy.webp",
+      "summary": "A folding wheeled caddy for carrying and storing a compatible Beatbot pool cleaner.",
+      "specs": {
+        "compatibility": "Offered by Beatbot with AquaSense 2 Ultra",
+        "accessory_details": "Foldable design with large transport wheels"
+      },
+      "sources": [
+        "https://beatbot.com/products/aquasense-2-ultra"
+      ],
+      "note": "Caddy only. Pool-cleaning robot shown in the manufacturer photograph is not included. Confirm fit for your exact model before ordering.",
+      "image_source": "https://beatbot.com/cdn/shop/files/225_cdcb231d-2619-4109-89f5-4d325e532def.png?v=1785995698&width=800"
+    },
+    {
+      "sku": "MX-ROBOROCK-SAROS-MOP-CLOTHS",
+      "slug": "roborock-saros-mop-cloths",
+      "name": "Roborock Mop Cloths for Saros 10R / Saros Z70 (4 Pack)",
+      "brand": "Roborock",
+      "category": "vacuum-accessories",
+      "price": 25.99,
+      "currency": "USD",
+      "image": "roborock-saros-mop-cloths.webp",
+      "summary": "Four replacement mop cloths specified for Roborock Saros 10R and Saros Z70.",
+      "specs": {
+        "compatibility": "Roborock Saros 10R and Saros Z70",
+        "accessory_details": "Pack of four replacement mop cloths"
+      },
+      "sources": [
+        "https://us.roborock.com/products/roborock-saros-10r"
+      ],
+      "note": "Mop cloths only; robot vacuum and dock are not included. This listing does not claim compatibility with Qrevo Curv.",
+      "image_source": "https://us.roborock.com/cdn/shop/files/2_Saros-10R-1_140x.jpg?v=1757937015"
+    }
+  ],
+  "categories": [
+    [
+      "drones",
+      "Drones",
+      null,
+      "DJI camera drones and immersive FPV models."
+    ],
+    [
+      "camera-drones",
+      "Camera Drones",
+      "drones",
+      "Compare compact and dual-camera DJI drones."
+    ],
+    [
+      "fpv-drones",
+      "FPV Drones",
+      "drones",
+      "Explore immersive flying with DJI Avata."
+    ],
+    [
+      "drone-accessories",
+      "Drone Accessories",
+      "drones",
+      "Model-specific flight batteries and compatible accessories."
+    ],
+    [
+      "pool-robots",
+      "Pool Robots",
+      null,
+      "Beatbot robots for pool floors, walls, waterlines and surfaces."
+    ],
+    [
+      "robotic-pool-cleaners",
+      "Robotic Pool Cleaners",
+      "pool-robots",
+      "Compare Beatbot AquaSense pool-cleaning models."
+    ],
+    [
+      "pool-robot-accessories",
+      "Pool Robot Accessories",
+      "pool-robots",
+      "Transport and care accessories for compatible Beatbot models."
+    ],
+    [
+      "robot-vacuums",
+      "Robot Vacuums",
+      null,
+      "Roborock vacuum and mop robots for everyday floor care."
+    ],
+    [
+      "robot-vacuums-and-mops",
+      "Robot Vacuums & Mops",
+      "robot-vacuums",
+      "Compare Roborock navigation, mopping and docking features."
+    ],
+    [
+      "vacuum-accessories",
+      "Vacuum Accessories",
+      "robot-vacuums",
+      "Replacement parts with clearly stated model compatibility."
+    ]
+  ]
+}

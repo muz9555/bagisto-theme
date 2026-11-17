@@ -1,0 +1,68 @@
+{
+    "name": "muz9555/bagisto-theme",
+    "description": "MX Technology: an installable DJI, Beatbot and Roborock storefront child theme for Bagisto 2.5.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "bagisto",
+        "theme",
+        "storefront",
+        "drones",
+        "robots",
+        "laravel"
+    ],
+    "homepage": "https://github.com/muz9555/bagisto-theme",
+    "support": {
+        "issues": "https://github.com/muz9555/bagisto-theme/issues",
+        "source": "https://github.com/muz9555/bagisto-theme"
+    },
+    "require": {
+        "php": "^8.4",
+        "ext-json": "*",
+        "laravel/framework": "^13.0"
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.24",
+        "laravel/pint": "^1.19",
+        "pestphp/pest": "^5.0",
+        "pestphp/pest-plugin-laravel": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webkul\\MXTechnology\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webkul\\MXTechnology\\Providers\\MXTechnologyServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "scripts": {
+        "test": "pest --configuration=phpunit.xml.dist",
+        "test:bagisto": "pest --configuration=phpunit.bagisto.xml",
+        "lint": "pint --test"
+    },
+    "archive": {
+        "exclude": [
+            "/vendor",
+            "/composer.lock",
+            "/.phpunit.cache",
+            "/.git",
+            "/.github",
+            "/tests",
+            "/phpunit*.xml*",
+            "/pint.json",
+            "/.gitignore",
+            "/.gitattributes",
+            "/docs"
+        ]
+    }
+}
